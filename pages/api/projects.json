@@ -5,33 +5,94 @@
     "image": "https://imgur.com/kbGs6zH.png",
     "description": "A platform for web developers to showcase their projects",
     "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
     "demo": "https://driwwwle.com/"
   },
   {
     "id": 2,
-    "name": "PCB Cupid",
-    "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "name": "Uber Eats",
+    "image": "/projects_images/uber.jpg",
+    "description": "Uber Eats is an online food ordering and delivery platform",
+    "tags": ["React", "node", "mongodb", "redux", "razorpay", "Material-ui"],
+    "demo": "https://www.ubereats.com/"
   },
   {
     "id": 3,
-    "name": "HealthyWays",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/itsnitinr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
+    "name": "Junoco",
+    "image": "/projects_images/junoco.png",
+    "description": "California-based sustainable and minimal skincare brand",
+    "tags": ["React", "node", "mongodb", "shopify", "python"],
+    "demo": "https://www.junoco.com/"
   },
   {
     "id": 4,
-    "name": "VSCode Portfolio",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "name": "Drizly",
+    "image": "/projects_images/drizly.png",
+    "description": "Drizly is an online ordering and delivery platform that facilitates the delivery of alcohol from local retailers via its mobile app or website",
+    "tags": ["next", "css-modules", "GraphQL"],
+    "demo": "https://drizly.com/"
+  },
+  {
+    "id": 5,
+    "name": "1stdibs",
+    "image": "/projects_images/1stdibs.png",
+    "description": "1stdibs is an online marketplace, which sells luxury items such as high-end furniture for interior design, fine art and jewelry",
+    "tags": ["next", "css-modules", "GraphQL"],
+    "demo": "https://www.1stdibs.com/"
+  },
+  {
+    "id": 6,
+    "name": "FanDuel",
+    "image": "/projects_images/fanduel.png",
+    "description": "FanDuel is the official sportsbook partner of the NFL, NBA, WNBA, MLB, NHL and PGA TOUR while making markets available for soccer, boxing, NASCAR, F1 Racing, UFC and more",
+    "tags": ["next", "css-modules", "GraphQL"],
+    "demo": "https://www.fanduel.com/"
+  },
+  {
+    "id": 7,
+    "name": "Hydrasoft",
+    "image": "/projects_images/hydra.png",
+    "description": "Hydrasoft is a co-venture development agency that helps startups and enterprises spin up or spin out new innovations",
+    "tags": ["next", "css-modules", "GraphQL"],
+    "demo": "https://www.hydrasoft.io/"
+  },
+  {
+    "id": 8,
+    "name": "Opyn Market",
+    "image": "/projects_images/opyn.png",
+    "description": "Opyn Market is the technology powering a new healthcare system that works for everyone",
+    "tags": ["next", "css-modules", "GraphQL"],
+    "demo": "https://www.myopyn.com/"
+  },
+  {
+    "id": 9,
+    "name": "Rover",
+    "image": "/projects_images/rover.png",
+    "description": "Rover.com is an online marketplace for people to buy, sell, and provide pet care services",
+    "tags": ["next", "css-modules", "GraphQL"],
+    "demo": "https://www.rover.com/"
+  },
+  {
+    "id": 10,
+    "name": "XCoins",
+    "image": "/projects_images/xcoins.png",
+    "description": "Xcoins is a leading cryptocurrency exchange platform that offers a quick and secure means of exchanging Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and Bitcoin Cash (BCH)",
+    "tags": ["next", "css-modules", "GraphQL"],
+    "demo": "https://xcoins.com/en/crypto-news/"
+  },
+  {
+    "id": 10,
+    "name": "Facebook",
+    "image": "/projects_images/facebook.png",
+    "description": "Introducing Watch, a New Platform For Shows On Facebook",
+    "tags": ["next", "css-modules", "GraphQL"],
+    "demo": "https://about.fb.com/news/2017/08/introducing-watch-a-new-platform-for-shows-on-facebook/"
+  },
+  {
+    "id": 11,
+    "name": "Main & Sky",
+    "image": "/projects_images/sky.png",
+    "description": "Site of luxury hotels scattered around Park City",
+    "tags": ["next", "css-modules", "GraphQL"],
+    "demo": "https://www.theskylodgeparkcity.com/"
   }
 ]

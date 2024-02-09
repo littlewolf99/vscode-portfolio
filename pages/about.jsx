@@ -1,4 +1,5 @@
 import stylesCard from "../styles/ArticleCard.module.css";
+import Image from "next/image";
 
 const resumeStyles = {
   container: {
@@ -135,6 +136,7 @@ const AboutPage = () => {
           </p>
         </section>
       </div>
+      <Image src={"public"} height={300} width={600} alt={project.name} />
     </>
   );
 };

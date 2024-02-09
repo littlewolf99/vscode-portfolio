@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap");
 
 *,
 *::before,
@@ -9,10 +9,10 @@
 }
 
 /* Tags */
-.react {
+.React {
   border: 0.1rem solid rgb(97, 218, 251);
 }
-.react:hover {
+.React:hover {
   background: rgba(97, 218, 251, 0.25);
 }
 
@@ -44,10 +44,10 @@
   background: rgba(82, 143, 240, 0.25);
 }
 
-.material-ui {
+.Material-ui {
   border: 0.1rem solid rgb(25, 118, 210);
 }
-.material-ui:hover {
+.Material-ui:hover {
   background: rgba(25, 118, 210, 0.25);
 }
 
@@ -77,6 +77,27 @@
 }
 .react-query:hover {
   background: rgba(255, 65, 84, 0.25);
+}
+
+.shopify {
+  border: 2px solid rgb(78, 65, 255);
+}
+.shopify:hover {
+  background: rgba(78, 65, 255, 0.25);
+}
+
+.python {
+  border: 2px solid rgb(215, 160, 22);
+}
+.python:hover {
+  background: rgba(215, 160, 22, 0.25);
+}
+
+.GraphQL {
+  border: 2px solid rgb(40, 204, 32);
+}
+.GrahpQL:hover {
+  background: rgba(40, 204, 32, 0.25);
 }
 
 .css-modules {
