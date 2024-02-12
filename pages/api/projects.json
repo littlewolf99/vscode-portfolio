@@ -1,13 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Driwwwle",
-    "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "demo": "https://driwwwle.com/"
-  },
-  {
     "id": 2,
     "name": "Uber Eats",
     "image": "/projects_images/uber.jpg",
