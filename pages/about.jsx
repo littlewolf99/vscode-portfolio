@@ -136,7 +136,7 @@ const AboutPage = () => {
           </p>
         </section>
       </div>
-      <Image src={"public"} height={300} width={600} alt={project.name} />
+      <Image src={"public"} height={300} width={600} alt="project name" />
     </>
   );
 };
