@@ -92,7 +92,7 @@
     "name": "Rover",
     "image": "/projects_images/rover.png",
     "description": "Rover.com is an online marketplace for people to buy, sell, and provide pet care services",
-    "tags": ["next", "css-modules", "GraphQL"],
+    "tags": ["next", "Python", "css-modules", "GraphQL"],
     "demo": "https://www.rover.com/"
   },
   {
