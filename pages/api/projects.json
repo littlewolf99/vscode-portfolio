@@ -1,43 +1,51 @@
 [
   {
+    "id": 1,
+    "name": "Revv Racing",
+    "image": "/projects_images/animoca.jpg",
+    "description": "REVV Racing - first-of-its-kind blockchain game",
+    "tags": ["React", "FramerMotion", "Web3", "Blockchain"],
+    "demo": "https://www.revvracing.com/"
+  },
+  {
     "id": 2,
-    "name": "Uber Eats",
-    "image": "/projects_images/uber.jpg",
-    "description": "Uber Eats is an online food ordering and delivery platform",
-    "tags": ["React", "node", "mongodb", "redux", "razorpay", "Material-ui"],
-    "demo": "https://www.ubereats.com/"
+    "name": "Motor Safety v1",
+    "image": "/projects_images/motorsafety.jpg",
+    "description": "MotorSafety.org is dedicated to helping consumers resolve problems related to vehicle recalls",
+    "tags": ["WordPress", "Elementor", "SEO"],
+    "demo": "https://www.motorsafety.org/"
   },
   {
     "id": 3,
-    "name": "Junoco",
-    "image": "/projects_images/junoco.png",
-    "description": "California-based sustainable and minimal skincare brand",
-    "tags": ["React", "node", "mongodb", "shopify", "python"],
-    "demo": "https://www.junoco.com/"
+    "name": "Motor Safety v2",
+    "image": "/projects_images/motorsafety-v2.jpg",
+    "description": "MotorSafety.org is dedicated to helping consumers resolve problems related to vehicle recalls",
+    "tags": ["Nuxt", "Tailwind", "Amplify"],
+    "demo": "https://v2.motorsafety.org/"
   },
   {
     "id": 4,
-    "name": "Drizly",
-    "image": "/projects_images/drizly.png",
-    "description": "Drizly is an online ordering and delivery platform that facilitates the delivery of alcohol from local retailers via its mobile app or website",
-    "tags": ["next", "css-modules", "GraphQL"],
-    "demo": "https://drizly.com/"
+    "name": "EMKAY",
+    "image": "/projects_images/efm_monitor.jpg",
+    "description": "Premier provider of fleet management solutions",
+    "tags": ["React", "Python"],
+    "demo": "https://www.emkay.com/"
   },
   {
     "id": 5,
-    "name": "1stdibs",
-    "image": "/projects_images/1stdibs.png",
-    "description": "1stdibs is an online marketplace, which sells luxury items such as high-end furniture for interior design, fine art and jewelry",
-    "tags": ["next", "css-modules", "GraphQL"],
-    "demo": "https://www.1stdibs.com/"
+    "name": "FarmShoppr",
+    "image": "/projects_images/farmshoppr.jpg",
+    "description": "FarmShoppr is an online platform that allows you to order fresh produce and specialty products from local farmers markets and small businesses in your community.",
+    "tags": ["WordPress", "SEO", "MySQL"],
+    "demo": "https://farmshoppr.com/"
   },
   {
     "id": 6,
-    "name": "FanDuel",
-    "image": "/projects_images/fanduel.png",
-    "description": "FanDuel is the official sportsbook partner of the NFL, NBA, WNBA, MLB, NHL and PGA TOUR while making markets available for soccer, boxing, NASCAR, F1 Racing, UFC and more",
-    "tags": ["next", "css-modules", "GraphQL"],
-    "demo": "https://www.fanduel.com/"
+    "name": "Super Circle",
+    "image": "/projects_images/supercicle.png",
+    "description": "SuperCircle powers circularity for the world's leading fashion brands",
+    "tags": ["JavaScript", "Three-js"],
+    "demo": "https://www.supercircle.world/"
   },
   {
     "id": 7,
@@ -52,11 +60,35 @@
     "name": "Opyn Market",
     "image": "/projects_images/opyn.png",
     "description": "Opyn Market is the technology powering a new healthcare system that works for everyone",
-    "tags": ["next", "css-modules", "GraphQL"],
+    "tags": ["React", "Material-ui", "redux"],
     "demo": "https://www.myopyn.com/"
   },
   {
     "id": 9,
+    "name": "Uber Eats",
+    "image": "/projects_images/uber.jpg",
+    "description": "Uber Eats is an online food ordering and delivery platform",
+    "tags": ["React", "TypeScript", "mongodb", "razorpay", "Material-ui"],
+    "demo": "https://www.ubereats.com/"
+  },
+  {
+    "id": 10,
+    "name": "1stdibs",
+    "image": "/projects_images/1stdibs.png",
+    "description": "1stdibs is an online marketplace, which sells luxury items such as high-end furniture for interior design, fine art and jewelry",
+    "tags": ["next", "css-modules", "GraphQL"],
+    "demo": "https://www.1stdibs.com/"
+  },
+  {
+    "id": 11,
+    "name": "FanDuel",
+    "image": "/projects_images/fanduel.png",
+    "description": "FanDuel is the official sportsbook partner of the NFL, NBA, WNBA, MLB, NHL and PGA TOUR while making markets available for soccer, boxing, NASCAR, F1 Racing, UFC and more",
+    "tags": ["next", "css-modules", "GraphQL"],
+    "demo": "https://www.fanduel.com/"
+  },
+  {
+    "id": 12,
     "name": "Rover",
     "image": "/projects_images/rover.png",
     "description": "Rover.com is an online marketplace for people to buy, sell, and provide pet care services",
@@ -64,27 +96,27 @@
     "demo": "https://www.rover.com/"
   },
   {
-    "id": 10,
+    "id": 13,
     "name": "XCoins",
     "image": "/projects_images/xcoins.png",
     "description": "Xcoins is a leading cryptocurrency exchange platform that offers a quick and secure means of exchanging Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and Bitcoin Cash (BCH)",
-    "tags": ["next", "css-modules", "GraphQL"],
+    "tags": ["Cloudflare", "WordPress", "MySQL"],
     "demo": "https://xcoins.com/en/crypto-news/"
   },
   {
-    "id": 10,
-    "name": "Facebook",
-    "image": "/projects_images/facebook.png",
-    "description": "Introducing Watch, a New Platform For Shows On Facebook",
-    "tags": ["next", "css-modules", "GraphQL"],
-    "demo": "https://about.fb.com/news/2017/08/introducing-watch-a-new-platform-for-shows-on-facebook/"
-  },
-  {
-    "id": 11,
+    "id": 14,
     "name": "Main & Sky",
     "image": "/projects_images/sky.png",
     "description": "Site of luxury hotels scattered around Park City",
-    "tags": ["next", "css-modules", "GraphQL"],
+    "tags": ["Bootstrap", "Google-Maps", "Nginx"],
     "demo": "https://www.theskylodgeparkcity.com/"
+  },
+  {
+    "id": 15,
+    "name": "Delivery",
+    "image": "/projects_images/delivery.png",
+    "description": "An online platform and suite of mobile apps that enables users to order from local restaurants and stores for on-demand delivery",
+    "tags": ["React", "Angular", "Laravel"],
+    "demo": "https://www.delivery.com/"
   }
 ]

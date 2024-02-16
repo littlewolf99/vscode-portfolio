@@ -16,6 +16,132 @@
   background: rgba(97, 218, 251, 0.25);
 }
 
+.FramerMotion {
+  border: 0.1rem solid rgb(173, 222, 12);
+}
+.FramerMotion:hover {
+  background: rgba(173, 222, 12, 0.25);
+}
+
+.Web3 {
+  border: 0.1rem solid rgb(108, 119, 224);
+}
+.Web3:hover {
+  background: rgba(108, 119, 224, 0.25);
+}
+
+.WordPress {
+  border: 0.1rem solid rgb(12, 100, 232);
+}
+.WordPress:hover {
+  background: rgba(12, 100, 232, 0.25);
+}
+
+.Elementor {
+  border: 0.1rem solid rgb(167, 47, 204);
+}
+.Elementor:hover {
+  background: rgba(167, 47, 204, 0.25);
+}
+
+.SEO {
+  border: 0.1rem solid rgb(65, 219, 14);
+}
+.SEO:hover {
+  background: rgba(65, 219, 14, 0.25);
+}
+
+.Nuxt {
+  border: 0.1rem solid rgb(236, 115, 16);
+}
+.Nuxt:hover {
+  background: rgba(236, 115, 16, 0.25);
+}
+
+.Tailwind {
+  border: 0.1rem solid rgb(7, 237, 237);
+}
+.Tailwind:hover {
+  background: rgba(7, 237, 237, 0.25);
+}
+
+.Python {
+  border: 0.1rem solid rgb(9, 101, 249);
+}
+.Python:hover {
+  background: rgba(9, 101, 249, 0.25);
+}
+
+.JavaScript {
+  border: 0.1rem solid rgb(131, 241, 14);
+}
+.JavaScript:hover {
+  background: rgba(131, 241, 14, 0.25);
+}
+
+.Three-js {
+  border: 0.1rem solid rgb(193, 65, 19);
+}
+.Three-js:hover {
+  background: rgba(193, 65, 19, 0.25);
+}
+
+.Laravel {
+  border: 0.1rem solid rgb(193, 65, 19);
+}
+.Laravel:hover {
+  background: rgba(193, 65, 19, 0.25);
+}
+
+.Bootstrap {
+  border: 0.1rem solid rgb(49, 68, 216);
+}
+.Bootstrap:hover {
+  background: rgba(49, 68, 216, 0.25);
+}
+
+.Nginx {
+  border: 0.1rem solid rgb(12, 205, 222);
+}
+.Nginx:hover {
+  background: rgba(12, 205, 222, 0.25);
+}
+
+.Cloudflare {
+  border: 0.1rem solid rgb(53, 114, 119);
+}
+.Cloudflare:hover {
+  background: rgba(53, 114, 119, 0.25);
+}
+
+.TypeScript {
+  border: 0.1rem solid rgb(114, 211, 136);
+}
+.TypeScript:hover {
+  background: rgba(114, 211, 136, 0.25);
+}
+
+.Google-Maps {
+  border: 0.1rem solid rgb(206, 95, 223);
+}
+.Google-Maps:hover {
+  background: rgba(206, 95, 223, 0.25);
+}
+
+.MySQL {
+  border: 0.1rem solid rgb(6, 238, 191);
+}
+.MySQL:hover {
+  background: rgba(6, 238, 191, 0.25);
+}
+
+.Amplify {
+  border: 0.1rem solid rgb(56, 232, 25);
+}
+.Amplify:hover {
+  background: rgba(56, 232, 25, 0.25);
+}
+
 .node {
   border: 0.1rem solid rgb(131, 205, 41);
 }
@@ -59,10 +185,10 @@
 }
 
 .next {
-  border: 2px solid rgb(0, 112, 243);
+  border: 2px solid rgb(108, 154, 207);
 }
 .next:hover {
-  background: rgba(0, 112, 243, 0.25);
+  background: rgba(108, 154, 207, 0.25);
 }
 
 .tailwind {
@@ -98,6 +224,20 @@
 }
 .GrahpQL:hover {
   background: rgba(40, 204, 32, 0.25);
+}
+
+.AWS {
+  border: 2px solid rgb(100, 13, 221);
+}
+.AWS:hover {
+  background: rgba(100, 13, 221, 0.25);
+}
+
+.Angular {
+  border: 2px solid rgb(241, 7, 89);
+}
+.Angular:hover {
+  background: rgba(241, 7, 89, 0.25);
 }
 
 .css-modules {
